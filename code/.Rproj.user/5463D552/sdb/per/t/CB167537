@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1458183686358.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CB167537",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gicx5lqea0",
+        "caption" : "wordfreq",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wordfreq&cache_key=gicx5lqea0",
+        "displayedObservations" : 24,
+        "environment" : "",
+        "object" : "wordfreq",
+        "totalObservations" : 24,
+        "variables" : 16
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
